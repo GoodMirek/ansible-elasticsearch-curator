@@ -1,6 +1,7 @@
 ---
 galaxy_info:
-  author: "Ogonna Iwunze"
+  role_name: elasticsearch_curator
+  author: "Ogonna Iwunze, Mirek Svoboda"
   company: None
   license: BSD
   min_ansible_version: 2.2
